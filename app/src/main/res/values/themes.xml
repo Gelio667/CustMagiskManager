@@ -1,0 +1,30 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/c_primary</item>
+        <item name="colorPrimaryVariant">@color/c_primary</item>
+        <item name="colorSecondary">@color/c_secondary</item>
+        <item name="android:colorBackground">@color/c_bg</item>
+        <item name="colorSurface">@color/c_surface</item>
+        <item name="colorOnSurface">@android:color/white</item>
+        <item name="colorOnBackground">@android:color/white</item>
+        <item name="colorError">@color/c_error</item>
+        <item name="android:statusBarColor">@color/c_bg</item>
+        <item name="android:navigationBarColor">@color/c_bg</item>
+    </style>
+
+    <style name="Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/c_card</item>
+        <item name="strokeColor">@color/c_outline</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="cardCornerRadius">16dp</item>
+    </style>
+
+    <style name="H1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Body">
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

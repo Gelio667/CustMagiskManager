@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="c_bg">#0B0B10</color>
+    <color name="c_surface">#12121A</color>
+    <color name="c_card">#151524</color>
+    <color name="c_outline">#2A2A3A</color>
+
+    <color name="c_primary">#8B5CF6</color>
+    <color name="c_secondary">#3B82F6</color>
+    <color name="c_warning">#FBBF24</color>
+    <color name="c_neutral">#9CA3AF</color>
+
+    <color name="c_success">#22C55E</color>
+    <color name="c_error">#EF4444</color>
+</resources>
